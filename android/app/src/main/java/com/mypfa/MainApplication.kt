@@ -1,4 +1,4 @@
-package com.pfa
+package com.mypfa
 
 import android.app.Application
 import com.facebook.react.PackageList
